@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">MyHelloWorld</string>
-    <string name="hello_world">My first Android App!</string>
+    <string name="hello_world">My first Android App with Android Studio!!!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
